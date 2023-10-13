@@ -3,7 +3,7 @@
   "name": "Player",
   "gold": 1000,
   "food": 140,
-  "cash": 7,
+  "cash": 999,
   "id": 1,
   "Ban": false
 }
