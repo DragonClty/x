@@ -1,0 +1,9 @@
+{
+  "level": 1,
+  "name": "Player",
+  "gold": 1000,
+  "food": 140,
+  "cash": 7,
+  "id": 1,
+  "Ban": false
+}
